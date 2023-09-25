@@ -14,6 +14,7 @@ Welcome to our repository for the "Optiver - Trading at the Close" Kaggle compet
 
 - `data/`: Directory to store the competition data files.
 - `notebooks/`: Jupyter notebooks containing our data exploration, modeling, and evaluation.
+- `scripts/`: Any additional scripts or code that support our project.
 - `README.md`: This file providing an overview of the repository.
 - `LICENSE`: MIT License
 
