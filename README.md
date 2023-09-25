@@ -28,6 +28,8 @@ Welcome to our repository for the "Optiver - Trading at the Close" Kaggle compet
 3. Install the required dependencies: 
 `pip install -r requirements.txt` (to be created)
 
+4. Download the competition data and place it in the `data/` directory.
+
 ## Usage
 
 ## Model Training
