@@ -37,15 +37,6 @@ Welcome to our repository for the "Optiver - Trading at the Close" Kaggle compet
 
 ## Evaluation
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m "Add feature or fix"`.
-4. Push to your fork: `git push origin feature-name`.
-5. Create a pull request, describing your changes.
 
 ## License
 
